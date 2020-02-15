@@ -1,6 +1,14 @@
-# uno-java
-* This is an UNO game written in Java.
-* This game had been developed in 2 days.
-### Screenshot
+# UNO
+## Features
+* Sound effects
+* Resolution settings
+* Improved artificial intelligence
 
-![screenshot](screenshot.png "A screenshot of the game")
+## What I Learned
+* Swing in Java
+* Multi-thread in Java
+* AudioSystem in Java
+
+## Screenshots
+![screenshot](screenshot-0.png "Main Menu")
+![screenshot](screenshot-1.png "In-game")
